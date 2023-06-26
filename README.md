@@ -1,2 +1,2 @@
 # devops
-Hey i am a test lol
+Hey i am a test
